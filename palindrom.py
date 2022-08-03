@@ -7,4 +7,3 @@ palindrom("anna")
 
 
 
-
